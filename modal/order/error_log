@@ -1,0 +1,10 @@
+[30-May-2022 14:45:26 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'RETUR JEC KEDOYA' for key 'kode_tor' in /home/imsc3529/public_html/192.268.908.10/modal/order/action.php:53
+Stack trace:
+#0 /home/imsc3529/public_html/192.268.908.10/modal/order/action.php(53): PDOStatement->execute()
+#1 {main}
+  thrown in /home/imsc3529/public_html/192.268.908.10/modal/order/action.php on line 53
+[21-Jul-2022 11:14:12 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '014/PRC/NP/OBT/VII/22' for key 'kode_tor' in /home/imsc3529/public_html/192.268.908.10/modal/order/action.php:53
+Stack trace:
+#0 /home/imsc3529/public_html/192.268.908.10/modal/order/action.php(53): PDOStatement->execute()
+#1 {main}
+  thrown in /home/imsc3529/public_html/192.268.908.10/modal/order/action.php on line 53

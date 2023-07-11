@@ -1,0 +1,19 @@
+[07-Mar-2022 14:14:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/imsc3529/public_html/192.268.908.10/config/function/data.php:34
+Stack trace:
+#0 /home/imsc3529/public_html/192.268.908.10/modal/transferstok/notification.php(10): Data->sistem('url_sis')
+#1 {main}
+  thrown in /home/imsc3529/public_html/192.268.908.10/config/function/data.php on line 34
+[01-Apr-2022 19:20:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/imsc3529/public_html/192.268.908.10/config/function/data.php:34
+Stack trace:
+#0 /home/imsc3529/public_html/192.268.908.10/modal/transferstok/notification.php(10): Data->sistem('url_sis')
+#1 {main}
+  thrown in /home/imsc3529/public_html/192.268.908.10/config/function/data.php on line 34
+[01-Apr-2022 19:20:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/imsc3529/public_html/192.268.908.10/config/function/data.php:34
+Stack trace:
+#0 /home/imsc3529/public_html/192.268.908.10/modal/transferstok/notification.php(10): Data->sistem('url_sis')
+#1 {main}
+  thrown in /home/imsc3529/public_html/192.268.908.10/config/function/data.php on line 34
+[24-May-2022 16:34:20 Asia/Jakarta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/imsc3529/public_html/192.268.908.10/modal/transferstok/action.php on line 27
+[11-Jul-2022 15:44:44 Asia/Jakarta] PHP Notice:  Undefined index: id_ttr in /home/imsc3529/public_html/192.268.908.10/modal/transferstok/approval.php on line 10
+[11-Jul-2022 15:44:44 Asia/Jakarta] PHP Notice:  Undefined index: approval in /home/imsc3529/public_html/192.268.908.10/modal/transferstok/approval.php on line 11
+[11-Jul-2022 15:44:44 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type bool in /home/imsc3529/public_html/192.268.908.10/modal/transferstok/approval.php on line 25
